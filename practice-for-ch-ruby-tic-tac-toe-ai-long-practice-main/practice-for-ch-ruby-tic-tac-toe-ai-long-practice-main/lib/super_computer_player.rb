@@ -11,4 +11,4 @@ if $PROGRAM_NAME == __FILE__
   cp = SuperComputerPlayer.new
 
   TicTacToe.new(hp, cp).run
-end
+end 
